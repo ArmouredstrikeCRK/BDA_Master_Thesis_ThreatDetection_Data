@@ -1,0 +1,10 @@
+**Aggression Clarification Prompt**
+Analyze the image and determine the level of aggression based on the following factors:
+- **Engagement Indicators:** Are individuals in a direct combat posture (e.g., aiming weapons at a target, taking cover under fire, advancing in formation)?
+- **Threat Level Analysis:** Identify any visible actions that indicate active engagement, strategic movement, or defensive positioning.
+- **Weapon Usage:** Does the firearm have an orange/red tip (indicating training) or appear to be in active use?
+- **Contextual Analysis:** Assess if the image is from a combat zone, a controlled training exercise, or a non-military scenario.
+- **Response Format:**
+  - **Aggression Level:** [0-5] (0 = No aggression, 5 = Active combat)
+  - **Indicators:** [List specific details]
+  - **Context Assessment:** [Brief summary]

@@ -1,0 +1,9 @@
+**Equipment Profiling Prompt**
+Analyze the military equipment present in the image and classify based on combat or training indicators:
+- **Detected Equipment:** List all visible weapons, tactical gear, and protective equipment.
+- **Simulation vs. Real Combat:** Identify markers like orange-tipped barrels, blank suppressors, or battle simulation sensors.
+- **Environmental Context:** Assess if the scene suggests real military deployment or a controlled training exercise.
+- **Response Format:**
+  - **Equipment List:** [List all detected equipment]
+  - **Training Indicators:** [List if applicable]
+  - **Conclusion:** [Training/Real Deployment]

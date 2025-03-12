@@ -1,0 +1,10 @@
+**Military Context Prompt**
+Assess the overall military scenario depicted in the image:
+- **Personnel Identification:** Describe visible uniforms, insignia, and ranks if present.
+- **Scene Description:** Identify if the location is a battlefield, military base, training ground, or other.
+- **Operational Status:** Determine if the personnel appear to be in active duty, patrolling, or engaged in an exercise.
+- **Threat Classification:** Assign a threat level based on visible indicators (0-5 scale).
+- **Response Format:**
+  - **Scene Type:** [Battlefield/Training/Base/etc.]
+  - **Personnel Gear:** [List uniform, equipment, insignia]
+  - **Threat Level:** [0-5]
